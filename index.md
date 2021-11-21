@@ -1,3 +1,3 @@
 ## Welcome to Rust Escalations
 
-Welcome
+Welcome Rusters
